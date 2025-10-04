@@ -33,7 +33,6 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
-// Experience Section Logo'
 
 // Education Section Logo's
 import holkarLogo from './assets/education_logo/holkarcollege.jpg';
